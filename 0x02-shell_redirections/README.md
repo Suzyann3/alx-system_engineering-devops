@@ -1,1 +1,1 @@
-Shell I/O redirections
+Tech lady
